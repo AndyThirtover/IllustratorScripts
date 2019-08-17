@@ -11,4 +11,6 @@ All of the required constants are at the begining of Javascript so that they are
 
 Linear and Log versions are here.
 
-You'll need to use the Adobe 'ExtendScript toolkit' to run these.
+For CS6 You'll need to use the Adobe 'ExtendScript toolkit' to run these.
+
+With Illustrator 2019 you can use the File->Script [Other Script] menu to run this.
